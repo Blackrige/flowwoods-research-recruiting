@@ -1,0 +1,11 @@
+{
+  "name": "flowwoods-research",
+  "version": "0.1.0",
+  "description": "Evaluate and request real-user research recruiting for AI products. Free estimates and feasibility inquiries; paid recruiting, incentives extra.",
+  "mcpServers": {
+    "flowwoods-research": {
+      "httpUrl": "https://www.flowwoods.com/mcp",
+      "includeTools": ["get_service_offer", "estimate_research_cost", "submit_research_brief"]
+    }
+  }
+}
